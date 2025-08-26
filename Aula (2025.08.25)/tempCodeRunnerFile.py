@@ -1,1 +1,0 @@
-supermercado.sair_fila()

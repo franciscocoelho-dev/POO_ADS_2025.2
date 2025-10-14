@@ -1,0 +1,12 @@
+# Relacionamento entre classes / objetos
+
+1 - Associação: Atributo de uma classe é objeto de outra
+
+2 - Agregação: Os objetos (todo e parte) existem separadamente, mas não tem utilidade separados.
+
+3 - Composição: Os objetos (todo e parte) NÃO existem separadamente
+
+
+Agregação / Composição --> Todo e Parte
+
+
